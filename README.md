@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/sharath-chandra-gaddam-851a45263/](https://sharath-files-directory.vercel.app/)" target="blank">portfolio</a>
+<a href="https://sharath-files-directory.vercel.app/" target="blank">portfolio</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
