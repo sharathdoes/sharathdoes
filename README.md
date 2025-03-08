@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sharath G</h1>
 <h3 align="center">A passionate Fullstack developer, AI enthusiast</h3>
 
-- 🔭 I’m currently working on [Craft & Stitch](https://github.com/sharathdoes/Craft-and-stitch-server)
 
 - 🌱 I’m currently learning **Gen AI, Deep learning**
 
