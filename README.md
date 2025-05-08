@@ -6,7 +6,7 @@
  <img src="https://komarev.com/ghpvc/?username=sharathdoes&color=00C4FF&style=flat" />
 </p>
 
-I'm sharath, a dev, from VNR VJIET and right I'm now working on Gen ai and Next js and My repos are private 😉, reach me by  **sharath7693@gmail.com**.
+I'm sharath, a dev, working on Gen AI and Next js right now. My repos are private 😉, reach me through  **sharath7693@gmail.com**.
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sharathdoes&theme=tokyo-night" />
 </p>
