@@ -1,11 +1,13 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=FFFFFF&center=true&vCenter=true&lines=Hey%2C+Here's+where+sharath+does+!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=FFFFFF&center=true&vCenter=true&lines=Hey%2C+Here+sharath+does+!!)](https://git.io/typing-svg)
 
+<p align="left"> 
+ <img src="https://img.shields.io/github/followers/TharaneshA?color=00C4FF&label=Followers" />
+ <img src="https://img.shields.io/github/stars/TharaneshA?style=flat&color=00C4FF" />
+ <img src="https://komarev.com/ghpvc/?username=TharaneshA&color=00C4FF&style=flat" />
+</p>
 
-My repos are private 😉 but [ping me on LinkedIn](https://www.linkedin.com/in/sharath-chandra-gaddam-851a45263/) to know more.
-
-## 📊 GitHub Activity
+I'm sharath, right now working on gen ai projects and Next js and My repos are private 😉 but [ping me on LinkedIn](https://www.linkedin.com/in/sharath-chandra-gaddam-851a45263/) to know more.
 
 <p align="center">
-
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sharathdoes&theme=tokyo-night" />
 </p>
