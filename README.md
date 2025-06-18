@@ -9,4 +9,5 @@
 I'm sharath, a dev, working on Gen AI and Next js right now. My repos are private 😉, reach me through  **sharath7693@gmail.com**.
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sharathdoes&theme=tokyo-night" />
+    [![sharathdoes's github stats](https://github-readme-stats.vercel.app/api?username=sharathdoes)](https://github.com/sharathdoes/github-readme-stats)
 </p>
