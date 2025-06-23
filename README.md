@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=FFFFFF&center=true&vCenter=true&lines=0+→+1+enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=FFFFFF&center=true&vCenter=true&lines=Clean+Code+Dirty+Work)](https://git.io/typing-svg)
 
 <p align="left"> 
  <img src="https://img.shields.io/github/followers/sharathdoes?color=00C4FF&label=Followers" />
